@@ -1,5 +1,5 @@
 # weatherInfoSys_cpp
-This is a UOW school assignment. The entire program is done in C++.
+This is a UOW academic assignment. The entire program is done in C++.
 
 NOTE: I apologize for the possible lack of information. The requirements and details of this assignment belongs to UOW. I do not hold rights to share the full information on a public platform. 
 
